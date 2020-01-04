@@ -6,5 +6,5 @@ categories: syllabi
 
 ---
 
-<iframe src="http://127.0.0.1:4000/assets/pdfs/syll2002-paperwork.pdf" width="100%" height="600px">
+<iframe src="{{ 'assets/pdfs/syll2002-paperwork.pdf' | relative_url }}" width="100%" height="600px">
     </iframe>
