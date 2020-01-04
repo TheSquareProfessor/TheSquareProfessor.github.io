@@ -34,3 +34,4 @@ defaults:
 
 
 exclude: ['sitemap.xml','feed.xml', 'LICENSE', 'README.md']
+theme: jekyll-theme-cayman
