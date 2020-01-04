@@ -19,7 +19,7 @@ blockquote {
 }
 
 strong {
-	font-weight: bold;
+	font-weight: bold 700;
 	/*border-bottom: 2px solid #BADA55;*/
 	/*color: #898989;*/
 }
@@ -49,7 +49,7 @@ h6 {
 	padding-bottom: 0.3em;
 	line-height: 1.2;
 	text-align: left;
-	font-weight: bold;
+	font-weight: bold 700;
 	/* color: #80f79f; */
 	color: #f78e66;
 	position: relative;
