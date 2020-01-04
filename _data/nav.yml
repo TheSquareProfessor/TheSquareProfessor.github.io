@@ -1,0 +1,9 @@
+list:
+  - title: Home
+    url: ""
+  - title: Syllabi
+    url: syllabi
+  - title: Classics Twitch
+    url: twitch
+  - title: Georgicon Trail!
+    url: georgicon

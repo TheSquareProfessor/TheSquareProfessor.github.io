@@ -1,0 +1,10 @@
+---
+title: Syllabi
+layout: collections_layout
+permalink: /syllabi/
+---
+Some syllabi of classes I have taught:
+
+{% for post in site.posts %}
+<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+{%endfor%}
