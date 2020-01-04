@@ -19,14 +19,14 @@ header {
 
 header * {
 	color: #f78e66 !important;
-	font-size: 2.5rem !important;
+	font-size: 2rem !important;
 }
 
 /* nav */
 
 nav {
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 20%;
+	margin-right: 20%;
 	padding-top: 3rem;
 	line-height: 2rem;
 }
@@ -34,7 +34,7 @@ nav {
 nav a {
 	color: #72b6b5 !important;
 	padding-right: 2rem;
-	font-size: 1.2rem;
+	font-size: 1rem;
 	font-weight: bold;
 }
 
@@ -54,8 +54,8 @@ nav a:hover {
 
 main {
 	margin-top: 3rem;
-	margin-left: 15%;
-	margin-right: 15%;
+	margin-left: 20%;
+	margin-right: 20%;
 	display: grid;
 	grid-gap: 1.4rem;
 	line-height: 1.5rem;
@@ -101,7 +101,7 @@ footer {
 	font-weight: bold;
 	color: #72b6b5;
 	font-size: 0.7rem;
-	margin: 4rem 15% 4rem 15%;
+	margin: 4rem 20% 4rem 20%;
 }
 
 @media screen and (max-width: 780px) {
