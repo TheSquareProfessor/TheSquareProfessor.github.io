@@ -7,5 +7,5 @@ categories: syllabi
 
 ---
 
-<iframe src="{{ 'assets/pdfs/syll1903-odyssey.pdf' | relative_url }} width="100%" height="600px"">
+<iframe src="{{ 'assets/pdfs/syll1903-odyssey.pdf' | relative_url }}" width="100%" height="600px">
     </iframe>
