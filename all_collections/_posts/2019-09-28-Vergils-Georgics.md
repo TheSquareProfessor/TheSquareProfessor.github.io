@@ -7,7 +7,5 @@ categories: syllabi
 
 ---
 
-<div class="resp-container">
-<iframe src="{{ 'assets/pdfs/syll1903-georgics.pdf' | relative_url }}">
+<iframe src="{{ 'assets/pdfs/syll1903-georgics.pdf' | relative_url }}" width="100%" height="600px">
     </iframe>
-</div>
