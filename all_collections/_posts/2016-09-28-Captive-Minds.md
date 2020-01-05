@@ -1,7 +1,8 @@
 ---
 
 layout: post
-title: Captive Minds (UCSC, Fall 2016)
+title: Captive Minds 
+subtitle: UCSC, Fall 2016
 categories: syllabi
 
 ---
