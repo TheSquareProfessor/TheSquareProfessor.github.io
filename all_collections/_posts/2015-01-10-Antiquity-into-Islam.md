@@ -7,6 +7,7 @@ categories: syllabi
 
 ---
 
+{{ post.title }} - {{ post.subtitle }}
 <div class="outer-pdf" style="-webkit-overflow-scrolling: touch; overflow: auto;">
         <div class="pdf">
             <iframe class="desktop-pdf" scrolling="auto" src="{{ 'assets/pdfs/syll1502-antiquityislam.pdf' | relative_url }}" width="100%" height="600px" type='application/pdf'>
