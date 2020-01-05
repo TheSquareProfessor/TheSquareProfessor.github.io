@@ -3,8 +3,8 @@ title: Syllabi
 layout: collections_layout
 permalink: /syllabi/
 ---
-Some syllabi of classes I have taught:
+Syllabi of some of the classes I have taught. Share, use & remix freely.
 
-{% for post in site.posts %}
-<a href="{{site.baseurl}}{{post.url}}">{{post.title}}</a>
+{% for post in site.categories.syllabi %}
+<a href="{{site.baseurl}}{{post.url}}">{{post.title}} ({{post.subtitle}})</a>
 {%endfor%}
