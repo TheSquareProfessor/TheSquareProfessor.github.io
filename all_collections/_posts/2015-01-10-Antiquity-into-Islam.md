@@ -2,7 +2,7 @@
 
 layout: post
 title: Antiquity into Islam 
-subtitle: Yale, Spring 2015
+subtitle: Yale, Spring 2015  co-taught with D. Gutas
 categories: syllabi
 
 ---
