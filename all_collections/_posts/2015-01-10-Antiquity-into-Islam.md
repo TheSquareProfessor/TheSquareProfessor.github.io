@@ -1,7 +1,8 @@
 ---
 
 layout: post
-title: Antiquity into Islam (Yale, Spring 2015)
+title: Antiquity into Islam 
+subtitle: Yale, Spring 2015
 categories: syllabi
 
 ---
