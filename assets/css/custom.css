@@ -141,6 +141,10 @@ footer {
 		margin-left: 10%;
 		margin-right: 10%;
 	}
+	.PageNavigation {
+	font-size: 0.9rem;
+	font-weight: bold;
+	}
 }
 
 @media only screen  and (min-width : 1025px) {
