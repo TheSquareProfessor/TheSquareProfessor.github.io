@@ -86,6 +86,10 @@ main {
     display: none;
 } 
 
+.mobile {
+	display: block;
+}
+
 .desktop-pdf {
     display: none;
 }
@@ -163,4 +167,7 @@ footer {
 .mobile {
     display: none;
 } 
+	.desktop {
+		display: block;
+	}
 }
