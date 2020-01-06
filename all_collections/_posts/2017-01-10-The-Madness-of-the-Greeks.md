@@ -1,20 +1,9 @@
 ---
 
-layout: post
+layout: syllabus
 title: The Madness of the Greeks! 
 subtitle: UCSC, Winter 2017 - upper-level seminar in translation
 categories: syllabi
+docname: syll1702-madness.pdf
 
 ---
-
-<div class="outer-pdf" style="-webkit-overflow-scrolling: touch; overflow: auto;">
-        <div class="pdf">
-            <iframe class="desktop-pdf" scrolling="auto" src="{{ 'assets/pdfs/syll1702-madness.pdf' | relative_url }}" width="100%" height="600px" type='application/pdf'>
-                <p style="font-size: 110%;"><em>There is content being displayed here that your browser doesn't support.</em> <a href="{{ 'assets/pdfs/syll1702-madness.pdf' | relative_url }}" target="_blank"> Please click here to attempt to view the information in a separate browser window. </a> Thanks for your patience!</p>
-            </iframe>
-            <iframe class="mobile-pdf" scrolling="auto" src="https://drive.google.com/viewerng/viewer?embedded=true&url=
-https://thesquareprofessor.github.io/assets/pdfs/syll1702-madness.pdf" width="100%" height="90%" type='application/pdf' title="Title">
-                <p style="font-size: 110%;"><em>There is content being displayed here that your browser doesn't support.</em> <a href="{{ 'assets/pdfs/syll1702-madness.pdf' | relative_url }}" target="_blank"> Please click here to attempt to view the information in a separate browser window. </a> Thanks for your patience!</p>
-            </iframe>
-        </div>
-    </div>
