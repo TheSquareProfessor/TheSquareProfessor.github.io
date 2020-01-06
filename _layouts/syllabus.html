@@ -9,6 +9,7 @@
 		<!-- page content -->
 		<main class="content">
 			{{content}}
+		{% include pnsyll.html %}
 		<div class="outer-pdf" style="-webkit-overflow-scrolling: touch; overflow: auto;">
         <div class="pdf">
             <iframe class="desktop-pdf" scrolling="auto" src="{{site.baseurl}}/assets/pdfs/{{page.docname}}" width="100%" height="600px" type='application/pdf'>
