@@ -68,6 +68,8 @@ nav a:hover {
 
 .PageNavigation .next {
   text-align: right;
+  float: none;
+  margin-right: 0px;
 }
 
 /* main */
