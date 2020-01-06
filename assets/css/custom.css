@@ -91,6 +91,10 @@ main {
     display: block;
 }
 
+.desktop-only {
+	display: none;
+}
+
 .content a {
 	text-decoration: underline;
 }
@@ -156,5 +160,11 @@ footer {
   .desktop-pdf {
       display: block;
   }
+.desktop-only {
+	display: block;
+}
+.mobile-only {
+	display: none;
+}
 	
 }
