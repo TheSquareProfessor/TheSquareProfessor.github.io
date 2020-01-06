@@ -82,6 +82,10 @@ main {
 }
 
 /* iframe embedding */
+.desktop {
+    display: none;
+} 
+
 .desktop-pdf {
     display: none;
 }
@@ -155,4 +159,8 @@ footer {
   .desktop-pdf {
       display: block;
   }
+	
+.mobile {
+    display: none;
+} 
 }
