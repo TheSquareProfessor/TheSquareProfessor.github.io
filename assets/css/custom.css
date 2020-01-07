@@ -186,5 +186,10 @@ footer {
 .mobile-only {
 	display: none;
 }
+
+.resp-iframe {
+    width: 620px;
+    height: 378px;
+}
 	
 }
